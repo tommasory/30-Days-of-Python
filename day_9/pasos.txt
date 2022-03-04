@@ -1,0 +1,7 @@
+Agregar permisos a la cuenta de correo - acceder desde cuenta de terceros
+
+1. Entramos a nuestra cuenta.
+2. Vamos a seguridad de la cuenta.
+3. Vamos a la parte que dice "Acceso de aplicaciones menos 
+   seguras." y le damos en activar.
+
